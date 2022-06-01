@@ -5,5 +5,6 @@ public class Main {
         System.out.println("hot fix -----");
         System.out.println("master - commit");
         System.out.println("push test");
+        System.out.println("poll test");
     }
 }
